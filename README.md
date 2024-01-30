@@ -1,4 +1,4 @@
-# Controlling a monitoring sattelite
+# Controlling a monitoring satellite
 ## Project for the Automated Systems Theory course
 This project aims to build a compensator to control a monitoring satellite by applying many principles learned in the automated systems theory ( checking the initial stability of the system in question, building a specific compensator and making sure it respects the requirements of the model : specific phase margins, subsequent compensators and specific values for the sensibility function .... )
 Coded using MATLAB.
